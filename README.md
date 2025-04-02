@@ -37,11 +37,4 @@ A modern React-based interface for the AI emotion analysis system, featuring:
 - Azure Cognitive Services credentials
 - OpenAI API key
 
-## Installation
 
-### Frontend Setup
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/ai-emotion-analyzer-react.git
-   cd ai-emotion-analyzer-react/frontend
