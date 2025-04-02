@@ -36,5 +36,6 @@ A modern React-based interface for the AI emotion analysis system, featuring:
 - Python 3.8+ (for backend API)
 - Azure Cognitive Services credentials
 - OpenAI API key
+  (See the .env.example file in emotion-analyzer/model)
 
 
