@@ -1,6 +1,6 @@
 # AI-Powered Mental Health Emotion Analyzer (React UI)
 
-
+![App Home Page](https://github.com/hariome62014/EmotionSense/blob/main/emotion-analyzer/public/Screenshot%202025-04-02%20220235.png) <!-- Replace with your actual screenshot file -->
 
 A modern React-based interface for the AI emotion analysis system, featuring:
 - Real-time text sentiment analysis
@@ -10,22 +10,36 @@ A modern React-based interface for the AI emotion analysis system, featuring:
 
 ## Features
 
-✨ **Modern UI Components**
+### ✨ Modern UI Components
+![UI Components Screenshot](https://github.com/hariome62014/EmotionSense/blob/main/emotion-analyzer/public/Screenshot%202025-04-02%20220250.png) <!-- Replace with your actual screenshot -->
+![UI Components Screenshot](https://github.com/hariome62014/EmotionSense/blob/main/emotion-analyzer/public/Screenshot%202025-04-02%20220301.png) <!-- Replace with your actual screenshot -->
 - Responsive design with Material-UI
 - Interactive emotion visualization
 - Multi-tab interface for different input types
 
-🎤 **Voice Analysis**
+
+### 📝 Text Analysis
+![Text Analysis Screenshot](https://github.com/hariome62014/EmotionSense/blob/main/emotion-analyzer/public/Screenshot%202025-04-02%20220345.png) <!-- Replace with your actual screenshot -->
+- Real-time sentiment detection as you type
+- Emotion breakdown (anger, joy, sadness, etc.)
+- Contextual phrase highlighting
+- Writing suggestions for emotional balance
+
+
+### 🎤 Voice Analysis
+![Voice Analysis Screenshot](https://github.com/hariome62014/EmotionSense/blob/main/emotion-analyzer/public/Screenshot%202025-04-02%20220357.png) <!-- Replace with your actual screenshot -->
 - Browser-based microphone recording
 - Real-time speech-to-text conversion
 - Emotion detection from speech patterns
 
-📷 **Image Analysis**
+### 📷 Image Analysis
+![Image Analysis Screenshot](https://github.com/hariome62014/EmotionSense/blob/main/emotion-analyzer/public/Screenshot%202025-04-02%20220411.png) <!-- Replace with your actual screenshot -->
 - Drag-and-drop image upload
 - Facial expression detection
 - Demographic analysis (age, gender)
 
-💡 **Smart Recommendations**
+### 💡 Smart Recommendations
+![Recommendations Screenshot](./screenshots/recommendations.png) <!-- Replace with your actual screenshot -->
 - Context-aware mental health tips
 - Interactive feedback system
 - Resource links based on emotional state
@@ -38,4 +52,13 @@ A modern React-based interface for the AI emotion analysis system, featuring:
 - OpenAI API key
   (See the .env.example file in emotion-analyzer/model)
 
+## Screenshots Gallery
 
+1. **Main Dashboard**  
+   ![Dashboard Overview](./screenshots/full-view.png) <!-- Replace with your actual screenshot -->
+
+2. **Text Analysis in Action**  
+   ![Text Analysis](./screenshots/text-analysis.png) <!-- Replace with your actual screenshot -->
+
+3. **Results Visualization**  
+   ![Results Page](./screenshots/results.png) <!-- Replace with your actual screenshot -->
