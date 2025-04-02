@@ -1,4 +1,4 @@
-# AI-Powered Mental Health Emotion Analyzer (React UI)
+# EmotionSense: AI-Powered Mental Health Emotion Analyzer (React UI)
 
 ![App Home Page](https://github.com/hariome62014/EmotionSense/blob/main/emotion-analyzer/public/Screenshot%202025-04-02%20220235.png) <!-- Replace with your actual screenshot file -->
 
@@ -38,8 +38,12 @@ A modern React-based interface for the AI emotion analysis system, featuring:
 - Facial expression detection
 - Demographic analysis (age, gender)
 
+### Result
+
+![Result Screenshot](https://github.com/hariome62014/EmotionSense/blob/main/emotion-analyzer/public/Screenshot%202025-04-02%20223112.png) <!-- Replace with your actual screenshot -->
+
 ### 💡 Smart Recommendations
-![Recommendations Screenshot](./screenshots/recommendations.png) <!-- Replace with your actual screenshot -->
+![Recommendations Screenshot](https://github.com/hariome62014/EmotionSense/blob/main/emotion-analyzer/public/Screenshot%202025-04-02%20223123.png) <!-- Replace with your actual screenshot -->
 - Context-aware mental health tips
 - Interactive feedback system
 - Resource links based on emotional state
@@ -52,13 +56,4 @@ A modern React-based interface for the AI emotion analysis system, featuring:
 - OpenAI API key
   (See the .env.example file in emotion-analyzer/model)
 
-## Screenshots Gallery
 
-1. **Main Dashboard**  
-   ![Dashboard Overview](./screenshots/full-view.png) <!-- Replace with your actual screenshot -->
-
-2. **Text Analysis in Action**  
-   ![Text Analysis](./screenshots/text-analysis.png) <!-- Replace with your actual screenshot -->
-
-3. **Results Visualization**  
-   ![Results Page](./screenshots/results.png) <!-- Replace with your actual screenshot -->
